@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+output/
+assembly/
+results/
+*.paf
+*.bam
+*.bai
+*.delta
+*.1delta
